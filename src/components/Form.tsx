@@ -4,7 +4,6 @@ import { FormProps } from "../types/Todo";
 const Form: React.FC<FormProps> = ({
   inputText,
   setInputText,
-  todos,
   setTodos,
   setStatus,
 }) => {

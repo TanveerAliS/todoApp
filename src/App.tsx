@@ -65,7 +65,6 @@ const App: React.FC = () => {
       <Form
         inputText={inputText}
         setInputText={setInputText}
-        todos={todos}
         setTodos={setTodos}
         setStatus={setStatus}
       />
