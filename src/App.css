@@ -53,7 +53,7 @@ form button:hover {
 }
 
 .todo-list {
-  min-width: 30%;
+  min-width: 33%;
   list-style: none;
 }
 
@@ -121,7 +121,7 @@ select {
 
 /* Custom Select */
 .select {
-  margin: 1rem;
+  margin: 1rem 0 1rem 2rem;
   position: relative;
   overflow: hidden;
 }
